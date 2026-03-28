@@ -1,6 +1,6 @@
 # AllegraMente — Privacy Policy
 
-**Last updated: February 2026**
+**Last updated: March 2026**
 
 ---
 
@@ -61,13 +61,13 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 ### Contact
 
 If you have questions or concerns about this Privacy Policy, please contact:
-**robbysoul@gmail.com**
+**support@allegramente.app**
 
 ---
 
 ## Italiano
 
-**Ultimo aggiornamento: Febbraio 2026**
+**Ultimo aggiornamento: Marzo 2026**
 
 ### Introduzione
 
@@ -118,13 +118,13 @@ Potremmo aggiornare questa informativa. La data di "Ultimo aggiornamento" verrà
 
 ### Contatti
 
-Per domande su questa informativa: **robbysoul@gmail.com**
+Per domande su questa informativa: **support@allegramente.app**
 
 ---
 
 ## Español
 
-**Última actualización: Febrero 2026**
+**Última actualización: Marzo 2026**
 
 ### Introducción
 
@@ -175,4 +175,4 @@ Podríamos actualizar esta política. La fecha de "Última actualización" se mo
 
 ### Contacto
 
-Para preguntas sobre esta política: **robbysoul@gmail.com**
+Para preguntas sobre esta política: **support@allegramente.app**
