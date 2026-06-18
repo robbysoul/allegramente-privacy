@@ -1,6 +1,6 @@
 # AllegraMente — Privacy Policy
 
-**Last updated: May 2026**
+**Last updated: June 2026**
 
 ---
 
@@ -9,6 +9,8 @@
 ### Introduction
 
 AllegraMente ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application AllegraMente on iOS.
+
+AllegraMente is developed and operated by Roberto D'Angelo, who acts as the data controller for the purposes of applicable data protection law (including the EU GDPR and the Swiss FADP). For any privacy-related question you can contact us at <support@allegramente.app>.
 
 ### Information We Collect
 
@@ -53,9 +55,11 @@ All app data is stored locally on your device. Your data:
 - Is permanently deleted when you uninstall the app
 - Can be deleted per-profile from within the app at any time
 
+If you are located in the EU/EEA, the United Kingdom, or Switzerland: because AllegraMente keeps all data on your device and transmits nothing to us, the rights granted by the GDPR and the Swiss FADP (such as access, rectification, and erasure) are exercised directly on your device. You have full control of your data at all times and can erase it completely by deleting a profile in the app or uninstalling the app. Since we hold no data on any server, there is nothing for us to access, correct, or delete on our side.
+
 ### Children's Privacy
 
-AllegraMente is suitable for users of all ages, including children under 13. Since all data is stored locally on the device and we do not collect, transmit, or share any personal information, the app fully complies with COPPA and similar regulations.
+AllegraMente may be used by people of all ages, including children. Because the app stores all data locally on your device and does not collect, transmit, or share any personal information, it does not carry out the kind of data collection regulated by children's privacy laws — such as the U.S. Children's Online Privacy Protection Act (COPPA) or the provisions concerning children's data in the EU General Data Protection Regulation (GDPR). We do not knowingly collect personal information from anyone, regardless of age.
 
 ### Security
 
@@ -74,11 +78,13 @@ If you have questions or concerns about this Privacy Policy, please contact:
 
 ## Italiano
 
-**Ultimo aggiornamento: Maggio 2026**
+**Ultimo aggiornamento: Giugno 2026**
 
 ### Introduzione
 
 AllegraMente si impegna a proteggere la tua privacy. Questa informativa descrive come gestiamo le informazioni nell'utilizzo della nostra app per iOS.
+
+AllegraMente è sviluppata e gestita da Roberto D'Angelo, che agisce in qualità di titolare del trattamento ai sensi della normativa applicabile sulla protezione dei dati (incluso il GDPR dell'UE e la LPD svizzera). Per qualsiasi domanda sulla privacy puoi contattarci all'indirizzo <support@allegramente.app>.
 
 ### Informazioni Raccolte
 
@@ -123,9 +129,11 @@ Tutti i dati sono memorizzati localmente sul dispositivo. I tuoi dati:
 - Vengono eliminati definitivamente alla disinstallazione dell'app
 - Possono essere eliminati per singolo profilo dall'interno dell'app in qualsiasi momento
 
+Se ti trovi nell'UE/SEE, nel Regno Unito o in Svizzera: poiché AllegraMente conserva tutti i dati sul tuo dispositivo e non ci trasmette nulla, i diritti previsti dal GDPR e dalla LPD svizzera (come accesso, rettifica e cancellazione) si esercitano direttamente sul dispositivo. Hai sempre il pieno controllo dei tuoi dati e puoi eliminarli completamente cancellando un profilo nell'app o disinstallando l'app. Poiché non conserviamo alcun dato su server, non vi è nulla da consultare, correggere o eliminare da parte nostra.
+
 ### Privacy dei Minori
 
-AllegraMente è adatta a utenti di tutte le età, inclusi i minori di 13 anni. Non raccogliendo né trasmettendo dati personali, l'app è conforme al COPPA e alle normative equivalenti sulla privacy dei minori.
+AllegraMente può essere utilizzata da persone di ogni età, inclusi i bambini. Poiché l'app memorizza tutti i dati esclusivamente sul tuo dispositivo e non raccoglie, trasmette né condivide alcun dato personale, non effettua il tipo di raccolta dati regolato dalle normative sulla privacy dei minori — come il COPPA (Children's Online Privacy Protection Act, USA) o le disposizioni relative ai dati dei minori del GDPR (Regolamento generale sulla protezione dei dati dell'UE). Non raccogliamo consapevolmente dati personali da alcun utente, indipendentemente dall'età.
 
 ### Sicurezza
 
@@ -143,11 +151,13 @@ Per domande su questa informativa: **support@allegramente.app**
 
 ## Español
 
-**Última actualización: Mayo 2026**
+**Última actualización: Junio 2026**
 
 ### Introducción
 
 AllegraMente se compromete a proteger tu privacidad. Esta política describe cómo gestionamos la información cuando usas nuestra app para iOS.
+
+AllegraMente es desarrollada y gestionada por Roberto D'Angelo, que actúa como responsable del tratamiento conforme a la normativa de protección de datos aplicable (incluidos el RGPD de la UE y la LPD suiza). Para cualquier consulta sobre privacidad puedes escribirnos a <support@allegramente.app>.
 
 ### Información Recopilada
 
@@ -192,9 +202,11 @@ Todos los datos se almacenan localmente en el dispositivo. Tus datos:
 - Se eliminan permanentemente al desinstalar la app
 - Pueden eliminarse por perfil desde dentro de la app en cualquier momento
 
+Si te encuentras en la UE/EEE, el Reino Unido o Suiza: dado que AllegraMente conserva todos los datos en tu dispositivo y no nos transmite nada, los derechos reconocidos por el RGPD y la LPD suiza (como acceso, rectificación y supresión) se ejercen directamente en tu dispositivo. Tienes en todo momento el control total de tus datos y puedes eliminarlos por completo borrando un perfil en la app o desinstalándola. Como no conservamos ningún dato en servidores, no hay nada que podamos consultar, corregir o eliminar por nuestra parte.
+
 ### Privacidad de Menores
 
-AllegraMente es apta para usuarios de todas las edades, incluidos los menores de 13 años. Al no recopilar ni transmitir datos personales, la app cumple con el COPPA y normativas equivalentes de privacidad de menores.
+AllegraMente puede ser utilizada por personas de todas las edades, incluidos los niños. Dado que la app almacena todos los datos exclusivamente en tu dispositivo y no recopila, transmite ni comparte ningún dato personal, no lleva a cabo el tipo de recopilación de datos regulado por las normativas de privacidad de menores — como la COPPA (Children's Online Privacy Protection Act, EE. UU.) o las disposiciones sobre datos de menores del RGPD (Reglamento General de Protección de Datos de la UE). No recopilamos conscientemente datos personales de ningún usuario, con independencia de su edad.
 
 ### Seguridad
 
@@ -212,11 +224,13 @@ Para preguntas sobre esta política: **support@allegramente.app**
 
 ## Français
 
-**Dernière mise à jour : Mai 2026**
+**Dernière mise à jour : Juin 2026**
 
 ### Introduction
 
 AllegraMente s'engage à protéger votre vie privée. Cette politique décrit la façon dont nous traitons les informations lors de l'utilisation de notre application iOS.
+
+AllegraMente est développée et exploitée par Roberto D'Angelo, qui agit en qualité de responsable du traitement au sens de la réglementation applicable en matière de protection des données (notamment le RGPD de l'UE et la LPD suisse). Pour toute question relative à la confidentialité, vous pouvez nous écrire à <support@allegramente.app>.
 
 ### Informations Collectées
 
@@ -261,9 +275,11 @@ Toutes les données sont stockées localement sur l'appareil. Vos données :
 - Sont définitivement supprimées lors de la désinstallation de l'application
 - Peuvent être supprimées par profil depuis l'application à tout moment
 
+Si vous résidez dans l'UE/EEE, au Royaume-Uni ou en Suisse : étant donné qu'AllegraMente conserve toutes les données sur votre appareil et ne nous transmet rien, les droits prévus par le RGPD et la LPD suisse (tels que l'accès, la rectification et l'effacement) s'exercent directement sur votre appareil. Vous gardez à tout moment le contrôle total de vos données et pouvez les effacer entièrement en supprimant un profil dans l'application ou en désinstallant celle-ci. Comme nous ne conservons aucune donnée sur un serveur, il n'y a rien que nous puissions consulter, corriger ou supprimer de notre côté.
+
 ### Vie Privée des Mineurs
 
-AllegraMente convient aux utilisateurs de tous âges, y compris aux enfants de moins de 13 ans. En ne collectant ni ne transmettant de données personnelles, l'application est pleinement conforme au COPPA et aux réglementations équivalentes sur la protection de la vie privée des mineurs.
+AllegraMente peut être utilisée par des personnes de tout âge, y compris des enfants. Étant donné que l'application stocke toutes les données exclusivement sur votre appareil et ne collecte, ne transmet ni ne partage aucune donnée personnelle, elle n'effectue pas le type de collecte de données encadré par les réglementations sur la vie privée des mineurs — telles que la COPPA (Children's Online Privacy Protection Act, États-Unis) ou les dispositions relatives aux données des enfants du RGPD (Règlement général sur la protection des données de l'UE). Nous ne collectons sciemment aucune donnée personnelle, quel que soit l'âge de l'utilisateur.
 
 ### Sécurité
 
@@ -281,11 +297,13 @@ Pour toute question : **support@allegramente.app**
 
 ## Deutsch
 
-**Letzte Aktualisierung: Mai 2026**
+**Letzte Aktualisierung: Juni 2026**
 
 ### Einleitung
 
 AllegraMente verpflichtet sich zum Schutz Ihrer Privatsphäre. Diese Datenschutzrichtlinie erläutert, wie wir mit Informationen umgehen, wenn Sie unsere iOS-App nutzen.
+
+AllegraMente wird von Roberto D'Angelo entwickelt und betrieben, der als Verantwortlicher im Sinne der geltenden Datenschutzgesetze (einschließlich der EU-DSGVO und des Schweizer DSG) handelt. Bei Fragen zum Datenschutz können Sie uns unter <support@allegramente.app> kontaktieren.
 
 ### Erfasste Informationen
 
@@ -330,9 +348,11 @@ Alle App-Daten werden lokal auf Ihrem Gerät gespeichert. Ihre Daten:
 - Werden bei der Deinstallation der App dauerhaft gelöscht
 - Können jederzeit profilweise innerhalb der App gelöscht werden
 
+Wenn Sie sich in der EU/im EWR, im Vereinigten Königreich oder in der Schweiz befinden: Da AllegraMente alle Daten auf Ihrem Gerät speichert und nichts an uns übermittelt, werden die durch die DSGVO und das Schweizer DSG gewährten Rechte (wie Auskunft, Berichtigung und Löschung) unmittelbar auf Ihrem Gerät ausgeübt. Sie behalten jederzeit die vollständige Kontrolle über Ihre Daten und können sie vollständig löschen, indem Sie ein Profil in der App entfernen oder die App deinstallieren. Da wir keine Daten auf einem Server speichern, gibt es auf unserer Seite nichts, worauf wir zugreifen oder das wir korrigieren oder löschen könnten.
+
 ### Datenschutz für Kinder
 
-AllegraMente ist für Nutzer jeden Alters geeignet, einschließlich Kinder unter 13 Jahren. Da keine personenbezogenen Daten erfasst oder übertragen werden, entspricht die App vollständig dem COPPA und gleichwertigen Datenschutzvorschriften für Minderjährige.
+AllegraMente kann von Menschen jeden Alters genutzt werden, einschließlich Kindern. Da die App alle Daten ausschließlich auf Ihrem Gerät speichert und keine personenbezogenen Daten erfasst, überträgt oder weitergibt, findet keine Datenerfassung statt, wie sie von Gesetzen zum Schutz der Privatsphäre von Kindern reguliert wird — etwa dem US-amerikanischen COPPA (Children's Online Privacy Protection Act) oder den Bestimmungen zu Kinderdaten in der EU-Datenschutz-Grundverordnung (DSGVO). Wir erfassen wissentlich von niemandem personenbezogene Daten, unabhängig vom Alter.
 
 ### Sicherheit
 
