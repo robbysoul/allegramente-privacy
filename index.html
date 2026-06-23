@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AllegraMente — Privacy Policy</title>
+<meta name="description" content="AllegraMente Privacy Policy. All data is stored locally on your device; nothing is collected, transmitted, or shared.">
+<meta name="robots" content="index, follow">
+<link rel="icon" href="data:,">
+<style>
+  :root{
+    --bg:#ffffff; --fg:#1a1a2e; --muted:#5a6072; --line:#e6e8ef;
+    --accent:#2563eb; --accent-soft:#eef2ff; --card:#f8f9fc;
+    --maxw:760px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#0e1116; --fg:#e7e9ef; --muted:#9aa2b4; --line:#222838;
+      --accent:#6ea8ff; --accent-soft:#162033; --card:#141925;
+    }
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; background:var(--bg); color:var(--fg);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif;
+    line-height:1.65; font-size:17px;
+  }
+  .wrap{max-width:var(--maxw); margin:0 auto; padding:32px 20px 80px}
+  header.masthead{padding-top:8px; margin-bottom:8px}
+  .brand{font-size:.85rem; font-weight:700; letter-spacing:.04em; text-transform:uppercase; color:var(--accent)}
+  h1{font-size:2rem; line-height:1.2; margin:.2em 0 .1em}
+  .updated{color:var(--muted); font-size:.95rem; margin:0 0 18px}
+  nav.langs{
+    position:sticky; top:0; z-index:10; background:var(--bg);
+    display:flex; flex-wrap:wrap; gap:8px; padding:12px 0; margin-bottom:8px;
+    border-bottom:1px solid var(--line);
+  }
+  nav.langs button{
+    font:inherit; font-weight:600; font-size:.9rem; cursor:pointer;
+    color:var(--muted); background:transparent; border:1px solid var(--line);
+    border-radius:999px; padding:6px 14px; transition:all .15s ease;
+  }
+  nav.langs button:hover{color:var(--fg); border-color:var(--accent)}
+  nav.langs button[aria-current="true"]{
+    color:#fff; background:var(--accent); border-color:var(--accent);
+  }
+  @media (prefers-color-scheme: dark){
+    nav.langs button[aria-current="true"]{color:#0e1116}
+  }
+  section.policy{padding-top:18px}
+  h2{font-size:1.35rem; margin:1.9em 0 .5em; padding-bottom:.25em; border-bottom:1px solid var(--line)}
+  h3{font-size:1.08rem; margin:1.4em 0 .4em; color:var(--fg)}
+  p{margin:.7em 0}
+  ul{margin:.6em 0; padding-left:1.3em}
+  li{margin:.32em 0}
+  a{color:var(--accent); text-decoration:none}
+  a:hover{text-decoration:underline}
+  strong{font-weight:700}
+  .note{
+    background:var(--card); border:1px solid var(--line); border-left:3px solid var(--accent);
+    border-radius:10px; padding:14px 16px; margin:1.1em 0;
+  }
+  .updated-inline{color:var(--muted); font-size:.95rem; margin:.2em 0 1.2em}
+  footer.foot{margin-top:48px; padding-top:18px; border-top:1px solid var(--line); color:var(--muted); font-size:.9rem}
+  hr{border:none; border-top:1px solid var(--line); margin:1.6em 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <div class="brand">AllegraMente</div>
+    <h1>Privacy Policy</h1>
+    <p class="updated">Last updated: June 2026</p>
+  </header>
+
+  <nav class="langs" aria-label="Language">
+    <button id="btn-en" type="button" onclick="showLang('en')">English</button>
+    <button id="btn-it" type="button" onclick="showLang('it')">Italiano</button>
+    <button id="btn-es" type="button" onclick="showLang('es')">Español</button>
+    <button id="btn-fr" type="button" onclick="showLang('fr')">Français</button>
+    <button id="btn-de" type="button" onclick="showLang('de')">Deutsch</button>
+  </nav>
+
+  <!-- ====================== ENGLISH ====================== -->
+  <section class="policy" id="sec-en" lang="en">
+    <p class="updated-inline"><strong>Last updated: June 2026</strong></p>
+
+    <h2>Introduction</h2>
+    <p>AllegraMente ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application AllegraMente on iOS.</p>
+    <p>AllegraMente is developed and operated by Roberto D'Angelo, who acts as the data controller for the purposes of applicable data protection law (including the EU GDPR and the Swiss FADP). For any privacy-related question you can contact us at <a href="mailto:support@allegramente.app">support@allegramente.app</a>.</p>
+
+    <h2>Information We Collect</h2>
+    <h3>Information Stored Locally on Your Device</h3>
+    <p>AllegraMente stores all your data <strong>locally on your device only</strong>, using Apple's SwiftData framework and device storage (UserDefaults). This includes:</p>
+    <ul>
+      <li>User profile information (display name, avatar preference, theme/gradient)</li>
+      <li>Workout history and scores</li>
+      <li>Achievement progress</li>
+      <li>Weekly goal settings and history</li>
+      <li>Onboarding assessment results (self-reported memory preferences and goals)</li>
+      <li>Training program enrollment and progress (active program, completed weeks, session difficulty)</li>
+      <li>Notification preferences (enabled/disabled, time, frequency)</li>
+      <li>General app preferences</li>
+    </ul>
+    <div class="note"><strong>We do not collect, transmit, or store any of your personal data on external servers.</strong></div>
+    <h3>Information We Do NOT Collect</h3>
+    <ul>
+      <li>We do not collect personal identification information</li>
+      <li>We do not track your location</li>
+      <li>We do not access your contacts, photos, camera, or microphone</li>
+      <li>We do not use analytics, crash reporting, or tracking SDKs</li>
+      <li>We do not share any data with third parties</li>
+      <li>We do not use advertising networks</li>
+    </ul>
+
+    <h2>Notifications</h2>
+    <p>AllegraMente may request permission to send you <strong>local notifications</strong> (e.g., workout reminders). These notifications are generated entirely on your device — no data is sent to any server to deliver them. You can enable or disable notifications at any time from the app's Settings screen or from your device's iOS Settings.</p>
+
+    <h2>In-App Purchases</h2>
+    <p>If you choose to support the app through optional in-app purchases, transactions are processed entirely by Apple through the App Store. We do not have access to your payment information, Apple ID, or any data related to the purchase beyond confirmation that it was completed.</p>
+
+    <h2>Data Storage and Deletion</h2>
+    <p>All app data is stored locally on your device. Your data:</p>
+    <ul>
+      <li>Is never transmitted to any server</li>
+      <li>Is not backed up to iCloud (unless you enable iCloud backup at the device level)</li>
+      <li>Is permanently deleted when you uninstall the app</li>
+      <li>Can be deleted per-profile from within the app at any time</li>
+    </ul>
+    <p>If you are located in the EU/EEA, the United Kingdom, or Switzerland: because AllegraMente keeps all data on your device and transmits nothing to us, the rights granted by the GDPR and the Swiss FADP (such as access, rectification, and erasure) are exercised directly on your device. You have full control of your data at all times and can erase it completely by deleting a profile in the app or uninstalling the app. Since we hold no data on any server, there is nothing for us to access, correct, or delete on our side.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>AllegraMente may be used by people of all ages, including children. Because the app stores all data locally on your device and does not collect, transmit, or share any personal information, it does not carry out the kind of data collection regulated by children's privacy laws — such as the U.S. Children's Online Privacy Protection Act (COPPA) or the provisions concerning children's data in the EU General Data Protection Regulation (GDPR). We do not knowingly collect personal information from anyone, regardless of age.</p>
+
+    <h2>Security</h2>
+    <p>Since all data remains on your device and is never transmitted, the security of your data depends on the security of your device. We recommend keeping your device and iOS up to date.</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. We will notify you of significant changes by updating the "Last updated" date. Continued use of the app after changes constitutes acceptance of the updated policy.</p>
+
+    <h2>Contact</h2>
+    <p>If you have questions or concerns about this Privacy Policy, please contact:<br><strong><a href="mailto:support@allegramente.app">support@allegramente.app</a></strong></p>
+  </section>
+
+  <!-- ====================== ITALIANO ====================== -->
+  <section class="policy" id="sec-it" lang="it">
+    <p class="updated-inline"><strong>Ultimo aggiornamento: Giugno 2026</strong></p>
+
+    <h2>Introduzione</h2>
+    <p>AllegraMente si impegna a proteggere la tua privacy. Questa informativa descrive come gestiamo le informazioni nell'utilizzo della nostra app per iOS.</p>
+    <p>AllegraMente è sviluppata e gestita da Roberto D'Angelo, che agisce in qualità di titolare del trattamento ai sensi della normativa applicabile sulla protezione dei dati (incluso il GDPR dell'UE e la LPD svizzera). Per qualsiasi domanda sulla privacy puoi contattarci all'indirizzo <a href="mailto:support@allegramente.app">support@allegramente.app</a>.</p>
+
+    <h2>Informazioni Raccolte</h2>
+    <h3>Dati Memorizzati Localmente sul Dispositivo</h3>
+    <p>AllegraMente memorizza tutti i dati <strong>esclusivamente sul tuo dispositivo</strong>, tramite SwiftData di Apple e l'archiviazione locale del dispositivo (UserDefaults):</p>
+    <ul>
+      <li>Informazioni del profilo (nome visualizzato, avatar, tema/gradiente)</li>
+      <li>Storico allenamenti e punteggi</li>
+      <li>Progressi degli achievement</li>
+      <li>Impostazioni e storico obiettivi settimanali</li>
+      <li>Risultato dell'onboarding (preferenze cognitive auto-dichiarate e obiettivi iniziali)</li>
+      <li>Iscrizione e progressi nei Programmi Strutturati (programma attivo, settimane completate, difficoltà sessioni)</li>
+      <li>Preferenze notifiche (attivate/disattivate, orario, frequenza)</li>
+      <li>Preferenze generali dell'app</li>
+    </ul>
+    <div class="note"><strong>Non raccogliamo, trasmettiamo o memorizziamo alcun dato personale su server esterni.</strong></div>
+    <h3>Dati NON Raccolti</h3>
+    <ul>
+      <li>Non raccogliamo dati identificativi personali</li>
+      <li>Non tracciamo la tua posizione geografica</li>
+      <li>Non accediamo a contatti, foto, fotocamera o microfono</li>
+      <li>Non utilizziamo SDK di analytics, crash reporting o tracciamento</li>
+      <li>Non condividiamo dati con terze parti</li>
+      <li>Non utilizziamo reti pubblicitarie</li>
+    </ul>
+
+    <h2>Notifiche</h2>
+    <p>AllegraMente può richiedere il permesso di inviarti <strong>notifiche locali</strong> (es. promemoria per gli allenamenti). Queste notifiche vengono generate interamente sul tuo dispositivo — nessun dato viene inviato a server esterni per consegnarle. Puoi abilitare o disabilitare le notifiche in qualsiasi momento dalla schermata Impostazioni dell'app o dalle Impostazioni iOS del dispositivo.</p>
+
+    <h2>Acquisti In-App</h2>
+    <p>Se scegli di supportare l'app tramite acquisti in-app opzionali, la transazione è gestita interamente da Apple tramite l'App Store. Non abbiamo accesso alle tue informazioni di pagamento, all'Apple ID o a dati relativi all'acquisto, se non alla conferma che è stato completato.</p>
+
+    <h2>Conservazione ed Eliminazione dei Dati</h2>
+    <p>Tutti i dati sono memorizzati localmente sul dispositivo. I tuoi dati:</p>
+    <ul>
+      <li>Non vengono mai trasmessi a server esterni</li>
+      <li>Non vengono sincronizzati su iCloud (salvo backup iCloud attivato a livello di dispositivo)</li>
+      <li>Vengono eliminati definitivamente alla disinstallazione dell'app</li>
+      <li>Possono essere eliminati per singolo profilo dall'interno dell'app in qualsiasi momento</li>
+    </ul>
+    <p>Se ti trovi nell'UE/SEE, nel Regno Unito o in Svizzera: poiché AllegraMente conserva tutti i dati sul tuo dispositivo e non ci trasmette nulla, i diritti previsti dal GDPR e dalla LPD svizzera (come accesso, rettifica e cancellazione) si esercitano direttamente sul dispositivo. Hai sempre il pieno controllo dei tuoi dati e puoi eliminarli completamente cancellando un profilo nell'app o disinstallando l'app. Poiché non conserviamo alcun dato su server, non vi è nulla da consultare, correggere o eliminare da parte nostra.</p>
+
+    <h2>Privacy dei Minori</h2>
+    <p>AllegraMente può essere utilizzata da persone di ogni età, inclusi i bambini. Poiché l'app memorizza tutti i dati esclusivamente sul tuo dispositivo e non raccoglie, trasmette né condivide alcun dato personale, non effettua il tipo di raccolta dati regolato dalle normative sulla privacy dei minori — come il COPPA (Children's Online Privacy Protection Act, USA) o le disposizioni relative ai dati dei minori del GDPR (Regolamento generale sulla protezione dei dati dell'UE). Non raccogliamo consapevolmente dati personali da alcun utente, indipendentemente dall'età.</p>
+
+    <h2>Sicurezza</h2>
+    <p>Poiché tutti i dati rimangono sul tuo dispositivo e non vengono mai trasmessi, la sicurezza dei tuoi dati dipende dalla sicurezza del dispositivo. Raccomandiamo di mantenere aggiornati il dispositivo e iOS.</p>
+
+    <h2>Modifiche all'Informativa</h2>
+    <p>Potremmo aggiornare questa informativa. La data di "Ultimo aggiornamento" verrà modificata in caso di cambiamenti significativi. Il proseguimento nell'uso dell'app dopo le modifiche costituisce accettazione dell'informativa aggiornata.</p>
+
+    <h2>Contatti</h2>
+    <p>Per domande su questa informativa: <strong><a href="mailto:support@allegramente.app">support@allegramente.app</a></strong></p>
+  </section>
+
+  <!-- ====================== ESPAÑOL ====================== -->
+  <section class="policy" id="sec-es" lang="es">
+    <p class="updated-inline"><strong>Última actualización: Junio 2026</strong></p>
+
+    <h2>Introducción</h2>
+    <p>AllegraMente se compromete a proteger tu privacidad. Esta política describe cómo gestionamos la información cuando usas nuestra app para iOS.</p>
+    <p>AllegraMente es desarrollada y gestionada por Roberto D'Angelo, que actúa como responsable del tratamiento conforme a la normativa de protección de datos aplicable (incluidos el RGPD de la UE y la LPD suiza). Para cualquier consulta sobre privacidad puedes escribirnos a <a href="mailto:support@allegramente.app">support@allegramente.app</a>.</p>
+
+    <h2>Información Recopilada</h2>
+    <h3>Datos Almacenados Localmente en el Dispositivo</h3>
+    <p>AllegraMente almacena todos los datos <strong>exclusivamente en tu dispositivo</strong>, mediante SwiftData de Apple y el almacenamiento local del dispositivo (UserDefaults):</p>
+    <ul>
+      <li>Información del perfil (nombre, avatar, tema/degradado)</li>
+      <li>Historial de entrenamientos y puntuaciones</li>
+      <li>Progreso de logros</li>
+      <li>Configuración e historial de objetivos semanales</li>
+      <li>Resultado del proceso de incorporación (preferencias cognitivas autodeclaradas y objetivos iniciales)</li>
+      <li>Inscripción y progreso en Programas Estructurados (programa activo, semanas completadas, dificultad de sesiones)</li>
+      <li>Preferencias de notificaciones (activadas/desactivadas, horario, frecuencia)</li>
+      <li>Preferencias generales de la app</li>
+    </ul>
+    <div class="note"><strong>No recopilamos, transmitimos ni almacenamos datos personales en servidores externos.</strong></div>
+    <h3>Datos NO Recopilados</h3>
+    <ul>
+      <li>No recopilamos datos de identificación personal</li>
+      <li>No rastreamos tu ubicación</li>
+      <li>No accedemos a contactos, fotos, cámara ni micrófono</li>
+      <li>No utilizamos SDK de análisis, informes de fallos ni rastreo</li>
+      <li>No compartimos datos con terceros</li>
+      <li>No utilizamos redes publicitarias</li>
+    </ul>
+
+    <h2>Notificaciones</h2>
+    <p>AllegraMente puede solicitar permiso para enviarte <strong>notificaciones locales</strong> (p. ej., recordatorios de entrenamiento). Estas notificaciones se generan íntegramente en tu dispositivo — no se envía ningún dato a servidores externos para entregarlas. Puedes activar o desactivar las notificaciones en cualquier momento desde la pantalla de Ajustes de la app o desde los Ajustes de iOS de tu dispositivo.</p>
+
+    <h2>Compras In-App</h2>
+    <p>Si eliges apoyar la app a través de compras in-app opcionales, la transacción es gestionada íntegramente por Apple a través de la App Store. No tenemos acceso a tu información de pago, a tu Apple ID ni a datos relacionados con la compra, más allá de la confirmación de que se completó.</p>
+
+    <h2>Almacenamiento y Eliminación de Datos</h2>
+    <p>Todos los datos se almacenan localmente en el dispositivo. Tus datos:</p>
+    <ul>
+      <li>Nunca se transmiten a servidores externos</li>
+      <li>No se sincronizan con iCloud (salvo que actives la copia de seguridad de iCloud a nivel de dispositivo)</li>
+      <li>Se eliminan permanentemente al desinstalar la app</li>
+      <li>Pueden eliminarse por perfil desde dentro de la app en cualquier momento</li>
+    </ul>
+    <p>Si te encuentras en la UE/EEE, el Reino Unido o Suiza: dado que AllegraMente conserva todos los datos en tu dispositivo y no nos transmite nada, los derechos reconocidos por el RGPD y la LPD suiza (como acceso, rectificación y supresión) se ejercen directamente en tu dispositivo. Tienes en todo momento el control total de tus datos y puedes eliminarlos por completo borrando un perfil en la app o desinstalándola. Como no conservamos ningún dato en servidores, no hay nada que podamos consultar, corregir o eliminar por nuestra parte.</p>
+
+    <h2>Privacidad de Menores</h2>
+    <p>AllegraMente puede ser utilizada por personas de todas las edades, incluidos los niños. Dado que la app almacena todos los datos exclusivamente en tu dispositivo y no recopila, transmite ni comparte ningún dato personal, no lleva a cabo el tipo de recopilación de datos regulado por las normativas de privacidad de menores — como la COPPA (Children's Online Privacy Protection Act, EE. UU.) o las disposiciones sobre datos de menores del RGPD (Reglamento General de Protección de Datos de la UE). No recopilamos conscientemente datos personales de ningún usuario, con independencia de su edad.</p>
+
+    <h2>Seguridad</h2>
+    <p>Como todos los datos permanecen en tu dispositivo y no se transmiten, la seguridad de tus datos depende de la seguridad del dispositivo. Recomendamos mantener actualizados el dispositivo e iOS.</p>
+
+    <h2>Cambios en la Política</h2>
+    <p>Podríamos actualizar esta política. La fecha de "Última actualización" se modificará ante cambios significativos. El uso continuado de la app tras los cambios implica la aceptación de la política actualizada.</p>
+
+    <h2>Contacto</h2>
+    <p>Para preguntas sobre esta política: <strong><a href="mailto:support@allegramente.app">support@allegramente.app</a></strong></p>
+  </section>
+
+  <!-- ====================== FRANÇAIS ====================== -->
+  <section class="policy" id="sec-fr" lang="fr">
+    <p class="updated-inline"><strong>Dernière mise à jour : Juin 2026</strong></p>
+
+    <h2>Introduction</h2>
+    <p>AllegraMente s'engage à protéger votre vie privée. Cette politique décrit la façon dont nous traitons les informations lors de l'utilisation de notre application iOS.</p>
+    <p>AllegraMente est développée et exploitée par Roberto D'Angelo, qui agit en qualité de responsable du traitement au sens de la réglementation applicable en matière de protection des données (notamment le RGPD de l'UE et la LPD suisse). Pour toute question relative à la confidentialité, vous pouvez nous écrire à <a href="mailto:support@allegramente.app">support@allegramente.app</a>.</p>
+
+    <h2>Informations Collectées</h2>
+    <h3>Données Stockées Localement sur l'Appareil</h3>
+    <p>AllegraMente stocke toutes vos données <strong>exclusivement sur votre appareil</strong>, via le framework SwiftData d'Apple et le stockage local de l'appareil (UserDefaults) :</p>
+    <ul>
+      <li>Informations du profil (nom affiché, avatar, thème/dégradé)</li>
+      <li>Historique des séances et scores</li>
+      <li>Progression des succès</li>
+      <li>Paramètres et historique des objectifs hebdomadaires</li>
+      <li>Résultat de l'évaluation initiale (préférences cognitives déclarées et objectifs de départ)</li>
+      <li>Inscription et progression dans les Programmes Structurés (programme actif, semaines complétées, difficulté des séances)</li>
+      <li>Préférences de notifications (activées/désactivées, horaire, fréquence)</li>
+      <li>Préférences générales de l'application</li>
+    </ul>
+    <div class="note"><strong>Nous ne collectons, ne transmettons ni ne stockons aucune donnée personnelle sur des serveurs externes.</strong></div>
+    <h3>Données NON Collectées</h3>
+    <ul>
+      <li>Nous ne collectons pas de données d'identification personnelle</li>
+      <li>Nous ne suivons pas votre localisation</li>
+      <li>Nous n'accédons pas à vos contacts, photos, appareil photo ou microphone</li>
+      <li>Nous n'utilisons pas de SDK d'analyse, de rapport de plantage ou de suivi</li>
+      <li>Nous ne partageons aucune donnée avec des tiers</li>
+      <li>Nous n'utilisons pas de réseaux publicitaires</li>
+    </ul>
+
+    <h2>Notifications</h2>
+    <p>AllegraMente peut demander la permission de vous envoyer des <strong>notifications locales</strong> (p. ex. des rappels d'entraînement). Ces notifications sont générées entièrement sur votre appareil — aucune donnée n'est envoyée à un serveur externe pour les délivrer. Vous pouvez activer ou désactiver les notifications à tout moment depuis l'écran Paramètres de l'application ou depuis les Réglages iOS de votre appareil.</p>
+
+    <h2>Achats In-App</h2>
+    <p>Si vous choisissez de soutenir l'application via des achats in-app optionnels, la transaction est entièrement gérée par Apple via l'App Store. Nous n'avons pas accès à vos informations de paiement, à votre identifiant Apple ni aux données liées à l'achat, au-delà de la confirmation que celui-ci a été effectué.</p>
+
+    <h2>Conservation et Suppression des Données</h2>
+    <p>Toutes les données sont stockées localement sur l'appareil. Vos données :</p>
+    <ul>
+      <li>Ne sont jamais transmises à un serveur externe</li>
+      <li>Ne sont pas synchronisées sur iCloud (sauf si vous activez la sauvegarde iCloud au niveau de l'appareil)</li>
+      <li>Sont définitivement supprimées lors de la désinstallation de l'application</li>
+      <li>Peuvent être supprimées par profil depuis l'application à tout moment</li>
+    </ul>
+    <p>Si vous résidez dans l'UE/EEE, au Royaume-Uni ou en Suisse : étant donné qu'AllegraMente conserve toutes les données sur votre appareil et ne nous transmet rien, les droits prévus par le RGPD et la LPD suisse (tels que l'accès, la rectification et l'effacement) s'exercent directement sur votre appareil. Vous gardez à tout moment le contrôle total de vos données et pouvez les effacer entièrement en supprimant un profil dans l'application ou en désinstallant celle-ci. Comme nous ne conservons aucune donnée sur un serveur, il n'y a rien que nous puissions consulter, corriger ou supprimer de notre côté.</p>
+
+    <h2>Vie Privée des Mineurs</h2>
+    <p>AllegraMente peut être utilisée par des personnes de tout âge, y compris des enfants. Étant donné que l'application stocke toutes les données exclusivement sur votre appareil et ne collecte, ne transmet ni ne partage aucune donnée personnelle, elle n'effectue pas le type de collecte de données encadré par les réglementations sur la vie privée des mineurs — telles que la COPPA (Children's Online Privacy Protection Act, États-Unis) ou les dispositions relatives aux données des enfants du RGPD (Règlement général sur la protection des données de l'UE). Nous ne collectons sciemment aucune donnée personnelle, quel que soit l'âge de l'utilisateur.</p>
+
+    <h2>Sécurité</h2>
+    <p>Toutes les données restant sur votre appareil et n'étant jamais transmises, leur sécurité dépend de celle de votre appareil. Nous vous recommandons de maintenir votre appareil et iOS à jour.</p>
+
+    <h2>Modifications de la Politique</h2>
+    <p>Nous pouvons mettre à jour cette politique. La date de « Dernière mise à jour » sera modifiée en cas de changements significatifs. L'utilisation continue de l'application après les modifications constitue l'acceptation de la politique mise à jour.</p>
+
+    <h2>Contact</h2>
+    <p>Pour toute question : <strong><a href="mailto:support@allegramente.app">support@allegramente.app</a></strong></p>
+  </section>
+
+  <!-- ====================== DEUTSCH ====================== -->
+  <section class="policy" id="sec-de" lang="de">
+    <p class="updated-inline"><strong>Letzte Aktualisierung: Juni 2026</strong></p>
+
+    <h2>Einleitung</h2>
+    <p>AllegraMente verpflichtet sich zum Schutz Ihrer Privatsphäre. Diese Datenschutzrichtlinie erläutert, wie wir mit Informationen umgehen, wenn Sie unsere iOS-App nutzen.</p>
+    <p>AllegraMente wird von Roberto D'Angelo entwickelt und betrieben, der als Verantwortlicher im Sinne der geltenden Datenschutzgesetze (einschließlich der EU-DSGVO und des Schweizer DSG) handelt. Bei Fragen zum Datenschutz können Sie uns unter <a href="mailto:support@allegramente.app">support@allegramente.app</a> kontaktieren.</p>
+
+    <h2>Erfasste Informationen</h2>
+    <h3>Lokal auf dem Gerät gespeicherte Daten</h3>
+    <p>AllegraMente speichert alle Ihre Daten <strong>ausschließlich auf Ihrem Gerät</strong>, mithilfe von Apples SwiftData-Framework und dem lokalen Gerätespeicher (UserDefaults):</p>
+    <ul>
+      <li>Profilinformationen (Anzeigename, Avatar, Design/Farbverlauf)</li>
+      <li>Trainingshistorie und Punkte</li>
+      <li>Erfolgsfortschritt</li>
+      <li>Einstellungen und Verlauf der Wochenziele</li>
+      <li>Ergebnis der Ersteinschätzung (selbst angegebene kognitive Präferenzen und Ausgangsziele)</li>
+      <li>Anmeldung und Fortschritt in Strukturierten Programmen (aktives Programm, abgeschlossene Wochen, Sitzungsschwierigkeit)</li>
+      <li>Benachrichtigungseinstellungen (aktiviert/deaktiviert, Uhrzeit, Häufigkeit)</li>
+      <li>Allgemeine App-Einstellungen</li>
+    </ul>
+    <div class="note"><strong>Wir erfassen, übertragen oder speichern keine Ihrer persönlichen Daten auf externen Servern.</strong></div>
+    <h3>Nicht erfasste Daten</h3>
+    <ul>
+      <li>Wir erfassen keine persönlichen Identifikationsdaten</li>
+      <li>Wir verfolgen nicht Ihren Standort</li>
+      <li>Wir greifen nicht auf Ihre Kontakte, Fotos, Kamera oder das Mikrofon zu</li>
+      <li>Wir verwenden keine Analytics-, Absturzbericht- oder Tracking-SDKs</li>
+      <li>Wir geben keine Daten an Dritte weiter</li>
+      <li>Wir nutzen keine Werbenetzwerke</li>
+    </ul>
+
+    <h2>Benachrichtigungen</h2>
+    <p>AllegraMente kann um Erlaubnis bitten, Ihnen <strong>lokale Benachrichtigungen</strong> zu senden (z. B. Trainingserinnerungen). Diese Benachrichtigungen werden vollständig auf Ihrem Gerät erzeugt — es werden keine Daten an externe Server übertragen, um sie zuzustellen. Sie können Benachrichtigungen jederzeit über den Einstellungsbildschirm der App oder über die iOS-Einstellungen Ihres Geräts aktivieren oder deaktivieren.</p>
+
+    <h2>In-App-Käufe</h2>
+    <p>Wenn Sie die App über optionale In-App-Käufe unterstützen möchten, wird die Transaktion vollständig von Apple über den App Store abgewickelt. Wir haben keinen Zugriff auf Ihre Zahlungsinformationen, Ihre Apple-ID oder kaufbezogene Daten — lediglich die Bestätigung, dass der Kauf abgeschlossen wurde.</p>
+
+    <h2>Datenspeicherung und -löschung</h2>
+    <p>Alle App-Daten werden lokal auf Ihrem Gerät gespeichert. Ihre Daten:</p>
+    <ul>
+      <li>Werden niemals an einen Server übertragen</li>
+      <li>Werden nicht mit iCloud synchronisiert (es sei denn, Sie aktivieren die iCloud-Sicherung auf Geräteebene)</li>
+      <li>Werden bei der Deinstallation der App dauerhaft gelöscht</li>
+      <li>Können jederzeit profilweise innerhalb der App gelöscht werden</li>
+    </ul>
+    <p>Wenn Sie sich in der EU/im EWR, im Vereinigten Königreich oder in der Schweiz befinden: Da AllegraMente alle Daten auf Ihrem Gerät speichert und nichts an uns übermittelt, werden die durch die DSGVO und das Schweizer DSG gewährten Rechte (wie Auskunft, Berichtigung und Löschung) unmittelbar auf Ihrem Gerät ausgeübt. Sie behalten jederzeit die vollständige Kontrolle über Ihre Daten und können sie vollständig löschen, indem Sie ein Profil in der App entfernen oder die App deinstallieren. Da wir keine Daten auf einem Server speichern, gibt es auf unserer Seite nichts, worauf wir zugreifen oder das wir korrigieren oder löschen könnten.</p>
+
+    <h2>Datenschutz für Kinder</h2>
+    <p>AllegraMente kann von Menschen jeden Alters genutzt werden, einschließlich Kindern. Da die App alle Daten ausschließlich auf Ihrem Gerät speichert und keine personenbezogenen Daten erfasst, überträgt oder weitergibt, findet keine Datenerfassung statt, wie sie von Gesetzen zum Schutz der Privatsphäre von Kindern reguliert wird — etwa dem US-amerikanischen COPPA (Children's Online Privacy Protection Act) oder den Bestimmungen zu Kinderdaten in der EU-Datenschutz-Grundverordnung (DSGVO). Wir erfassen wissentlich von niemandem personenbezogene Daten, unabhängig vom Alter.</p>
+
+    <h2>Sicherheit</h2>
+    <p>Da alle Daten auf Ihrem Gerät verbleiben und nie übertragen werden, hängt die Sicherheit Ihrer Daten von der Sicherheit Ihres Geräts ab. Wir empfehlen, Ihr Gerät und iOS stets aktuell zu halten.</p>
+
+    <h2>Änderungen dieser Richtlinie</h2>
+    <p>Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Das Datum „Letzte Aktualisierung" wird bei wesentlichen Änderungen angepasst. Die weitere Nutzung der App nach Änderungen gilt als Zustimmung zur aktualisierten Richtlinie.</p>
+
+    <h2>Kontakt</h2>
+    <p>Bei Fragen zu dieser Richtlinie: <strong><a href="mailto:support@allegramente.app">support@allegramente.app</a></strong></p>
+  </section>
+
+  <footer class="foot">
+    <p>© 2026 Roberto D'Angelo · AllegraMente · <a href="mailto:support@allegramente.app">support@allegramente.app</a></p>
+  </footer>
+</div>
+
+<script>
+  (function(){
+    var LANGS = ['en','it','es','fr','de'];
+    window.showLang = function(l){
+      if (LANGS.indexOf(l) === -1) l = 'en';
+      for (var i=0;i<LANGS.length;i++){
+        var code = LANGS[i];
+        var sec = document.getElementById('sec-'+code);
+        var btn = document.getElementById('btn-'+code);
+        if (sec) sec.hidden = (code !== l);
+        if (btn) btn.setAttribute('aria-current', code === l ? 'true' : 'false');
+      }
+      try { history.replaceState(null, '', '#'+l); } catch(e){}
+      document.documentElement.lang = l;
+    };
+    var initial = (location.hash || '').replace('#','').toLowerCase();
+    if (LANGS.indexOf(initial) === -1){
+      var nav = (navigator.language || 'en').slice(0,2).toLowerCase();
+      initial = (LANGS.indexOf(nav) !== -1) ? nav : 'en';
+    }
+    if (document.readyState === 'loading'){
+      document.addEventListener('DOMContentLoaded', function(){ showLang(initial); });
+    } else {
+      showLang(initial);
+    }
+  })();
+</script>
+</body>
+</html>
